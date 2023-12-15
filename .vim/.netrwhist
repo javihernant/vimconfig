@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/jahernan/Documents/ognsys/ogCP/ogcp/templates'
+let g:netrw_dirhist_6='/home/jahernan/Documents/rust/axum/examples/todos'
+let g:netrw_dirhist_5='/home/jahernan/Documents/rust/axum/examples/hello-world/src'
+let g:netrw_dirhist_4='/home/jahernan/Documents/rust/axum/examples/hello-world'
+let g:netrw_dirhist_3='/home/jahernan/Documents/rust/hello-world-axum/src'
+let g:netrw_dirhist_2='/home/jahernan/Documents/ognsys/ogCP/ogcp/translations/es/LC_MESSAGES'
+let g:netrw_dirhist_1='/home/jahernan/Documents/ognsys/ogCP/ogcp/translations/es'
+let g:netrw_dirhist_0='/home/jahernan/Documents/ognsys/ogCP/ogcp/translations/ca/LC_MESSAGES'
+let g:netrw_dirhist_9='/home/jahernan/Documents/ognsys/ogCP/ogcp/translations/ca'
+let g:netrw_dirhist_8='/home/jahernan/Documents/ognsys/ogCP/ogcp/templates/actions'
